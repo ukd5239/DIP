@@ -11,6 +11,17 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/demo/onboardingdemojob_0.1</module>
+    <module>jobs/process/DIP/Subjobs/sjloadentityfiletypexref_0.11</module>
+    <module>jobs/process/DIP/Subjobs/sjloadexceldata_0.3</module>
+    <module>jobs/process/DIP/Subjobs/sjloadrawandsplitcoulmndata_1.6</module>
+    <module>jobs/process/DIP/Subjobs/sjloadxmldata_0.3</module>
+    <module>jobs/process/DIP/Subjobs/sjnotifyds_0.1</module>
+    <module>jobs/process/DIP/Subjobs/sjpreprocessfileexists_0.9</module>
+    <module>jobs/process/DIP/Subjobs/sjpreprocessfilemaskcheck_0.20</module>
+    <module>jobs/process/DIP/Subjobs/sjpreprocessvalidations_2.7</module>
+    <module>jobs/process/DIP/Subjobs/xmlval_0.3</module>
+    <module>jobs/process/DIP/db_prefileval_3.0</module>
+    <module>jobs/process/DIP/var/sjloaddatasplitcoulmndata_from_database_chunk_2.6</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
